@@ -1,0 +1,32 @@
+aid: nlp-cloud
+name: NLP Cloud
+description: "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more"
+url: https://nlpcloud.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: NLP Cloud
+    description: "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more"
+    humanURL: https://nlpcloud.io
+    baseURL: https://nlpcloud.io
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://nlpcloud.io
+common:
+  - type: Website
+    url: https://nlpcloud.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
