@@ -1,0 +1,36 @@
+# Front Door AI Index — nlp-cloud — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: nlp-cloud
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: nlpcloud.io
+  final_host: nlpcloud.com
+  ownership: own
+  owner: nlp-cloud
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 214
+  host_score: 214
+  density: 54.04
+  words: 3960
+  tiers:
+    agentic: 51
+    core: 72
+    model: 91
+  ambiguous: 3
+  top_terms:
+    AI: 56
+    GPT: 35
+    Llama: 32
+    fine-tune: 26
+    OpenAI: 11
+    chatbot: 7
+    embedding: 6
+    ChatGPT: 5
+    conversational AI: 5
+    generative ai: 5
+    inference: 4
+    transformer: 4
