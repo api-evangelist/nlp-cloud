@@ -33,20 +33,21 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
   - Public APIs
+  - Machine-Learning
 apis:
   - name: NLP Cloud
     description: "NLP API using spaCy and transformers for NER, sentiments, classification, summarization, and more"
     humanURL: https://nlpcloud.io
-    baseURL: https://nlpcloud.io
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
+      - Machine-Learning
     properties:
       - type: Documentation
         url: https://nlpcloud.io
